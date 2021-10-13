@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\test-repo\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\FAfrin\\Downloads\\desktop\\testing\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\projects\\test-repo\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\FAfrin\\Downloads\\desktop\\testing\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\FAfrin\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\test-repo\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\FAfrin\\Downloads\\desktop\\testing\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FAfrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
